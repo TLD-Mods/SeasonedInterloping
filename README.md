@@ -1,5 +1,7 @@
 # Seasoned Interloping
 
+⚠️ This is a TLD Community Mod, which may or may not be maintained in the future. ⚠️ 
+
 This adds the following regions to Interloper mode:
 
 - Bleak Inlet
